@@ -2,12 +2,12 @@
 
 ## Жесткий диск
 
-- https://www.nix.ru/autocatalog/hdd_toshiba/HDD-4-Tb-SATA-6Gb-s-Toshiba-Surveillance-S300-HDWT840UZSVA-35_524958.html - 18816
+- https://www.nix.ru/autocatalog/hdd_toshiba/HDD-4-Tb-SATA-6Gb-s-Toshiba-Surveillance-S300-HDWT840UZSVA-35_524958.html - 18816 - для систем видеонаблюдения
 
 ## NAS
 
-- https://www.nix.ru/autocatalog/nas_synology/Synology-DS925-plus-Disk-Station_914960.html#pid=1009077 - 86465
-- https://www.nix.ru/autocatalog/nas_synology/Synology-DS425-plus_921019.html#pid=1021304 - 66316
+- https://www.nix.ru/autocatalog/nas_synology/Synology-DS925-plus-Disk-Station_914960.html#pid=1009077 - 86465 - 4 ядра, 4 Гб ОЗУ
+- https://www.nix.ru/autocatalog/nas_synology/Synology-DS425-plus_921019.html#pid=1021304 - 66316 - 4 ядра, 2 Гб ОЗУ
 
 ## ИБП - 1000W
 
@@ -27,13 +27,13 @@
 
 ## Жесткий диск
 
-- https://www.dns-shop.ru/product/2573ef8ded70ed20/4-tb-zestkij-disk-seagate-barracuda-st4000dm004/ - 16199
-- https://www.dns-shop.ru/product/b59b9c7e0614caee/4-tb-zestkij-disk-toshiba-s300-surveillance-hdwt840uzsva/ - 14699
+- https://www.dns-shop.ru/product/2573ef8ded70ed20/4-tb-zestkij-disk-seagate-barracuda-st4000dm004/ - 16199 - для домашнего ПК
+- https://www.dns-shop.ru/product/b59b9c7e0614caee/4-tb-zestkij-disk-toshiba-s300-surveillance-hdwt840uzsva/ - 14699 - для систем видеонаблюдения
 
 ## NAS
 
-- https://www.dns-shop.ru/product/c0b5a5cebfe8ed20/setevoe-hranilise-nas-synology-diskstation-ds423/ - 69799
-- https://www.dns-shop.ru/product/92b707a28de9d582/setevoe-hranilise-nas-synology-diskstation-ds425/ - 66499
+- https://www.dns-shop.ru/product/c0b5a5cebfe8ed20/setevoe-hranilise-nas-synology-diskstation-ds423/ - 69799 - 4 ядра, 2 Гб ОЗУ
+- https://www.dns-shop.ru/product/92b707a28de9d582/setevoe-hranilise-nas-synology-diskstation-ds425/ - 66499 - 4 ядра, 2 Гб ОЗУ
 
 ## ИБП - 1000W
 
@@ -51,11 +51,11 @@
 
 ## Жесткий диск
 
-- https://www.citilink.ru/product/zhestkii-disk-toshiba-s300-hdwt840uzsva-4tb-hdd-sata-iii-3-5-1793677/ - 17990
+- https://www.citilink.ru/product/zhestkii-disk-toshiba-s300-hdwt840uzsva-4tb-hdd-sata-iii-3-5-1793677/ - 17990 - для систем видеонаблюдения
 
 ## NAS
 
-- https://www.citilink.ru/product/setevoe-hranilische-nas-synology-ds425-4-bay-2123480/ - 64990
+- https://www.citilink.ru/product/setevoe-hranilische-nas-synology-ds425-4-bay-2123480/ - 64990 - 4 ядра, 2 Гб ОЗУ
 
 ## ИБП - 1000W
 

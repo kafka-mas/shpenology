@@ -3,6 +3,7 @@
 ## Жесткий диск
 
 - https://www.nix.ru/autocatalog/hdd_toshiba/HDD-4-Tb-SATA-6Gb-s-Toshiba-Surveillance-S300-HDWT840UZSVA-35_524958.html - 18816 - для систем видеонаблюдения
+- https://www.nix.ru/autocatalog/hdd_seagate/HDD-4-Tb-SATA-6Gb-s-Seagate-Barracuda-ST4000DM004-35-5400rpm-256Mb_304539.html - 18378 - диск для ПК
 
 ## NAS
 
